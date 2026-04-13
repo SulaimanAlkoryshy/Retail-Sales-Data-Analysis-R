@@ -13,4 +13,6 @@ This project focuses on analyzing retail sales data to extract actionable insigh
 * **Category Performance:** Bar charts highlighting top-selling categories like Electronics and Beauty.
 
 ### **Language:** R
-### **Libraries:** `data.table` (Fast data manipulation), `ggplot2` (Visualization), `lubridate` (Date handling).
+### **Libraries:** `data.table` =, `ggplot2`, `lubridate`.
+
+For a detailed analysis and insights, please refer to the [Full Project Report](./Retail-Sales-Data-Analysis_Report.pdf)
